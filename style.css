@@ -17,6 +17,14 @@ header {
     padding: 20px;
     
 }
+.dark-mode {
+    background-color: #121212;
+    color: #f0f0f0;
+}
+.dark-mode header {
+    background-color: #FFC0CB;
+}
+
 
 
 
